@@ -5,5 +5,5 @@
     
     <h2>Wedevs </h2>
         <ul>
-            <li> [Wedevs Academy](https://www.youtube.com/channel/UChJemyjsuFzs32ICOOgn5GA)</li> 
+    <li> <a href="https://www.youtube.com/channel/UChJemyjsuFzs32ICOOgn5GA" target="_blank">  Youtube Link </a></li> 
          </ul>
