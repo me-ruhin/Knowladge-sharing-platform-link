@@ -5,5 +5,5 @@
     
     <h2>Wedevs </h2>
         <ul>
-            <li>[Facebook  Link](https://www.facebook.com/groups/wedevs.academy) </li> 
+            <li> [Wedevs Academy](https://www.youtube.com/channel/UChJemyjsuFzs32ICOOgn5GA)</li> 
          </ul>
