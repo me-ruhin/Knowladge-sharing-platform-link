@@ -1,3 +1,3 @@
 # Knowladge-sharing-platform-link
 
-1. [Wedevs Academy] -- Time Schedule (Every Friday at 3.00 PM)
+1. [Wedevs Academy](https://www.youtube.com/channel/UChJemyjsuFzs32ICOOgn5GA) -- Time Schedule (Every Friday at 3.00 PM)
