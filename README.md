@@ -1,9 +1,7 @@
-# Knowladge-sharing-platform-link
-
-1. [Wedevs Academy](https://www.youtube.com/channel/UChJemyjsuFzs32ICOOgn5GA) -- Time Schedule (Every Friday at 3.00 PM)
-    <li><h2>Facebook Link </h2> </li>
+# Knowladge-Sharing-Platform-Link
     
-    <h2>Wedevs </h2>
+    <h2>Wedevs  Academy</h2>
         <ul>
     <li> <a href="https://www.youtube.com/channel/UChJemyjsuFzs32ICOOgn5GA" target="_blank">  Youtube Link </a></li> 
+    <li> <a href="https://www.facebook.com/groups/wedevs.academy" target="_blank">  Facebook Link </a></li> 
          </ul>
